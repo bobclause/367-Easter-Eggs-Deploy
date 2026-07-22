@@ -1,0 +1,16 @@
+{
+  "version": 1,
+
+  "games": [
+    {
+      "id": "cj-breakout",
+      "script": "games/cj-breakout.js",
+
+      "triggers": [
+        {
+          "type": "konami"
+        }
+      ]
+    }
+  ]
+}
